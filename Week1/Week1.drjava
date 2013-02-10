@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <drjava version="drjava-20120818-r5686">
-  <project autorefresh="false" root="" work="">
-    <createjar file=""/>
+  <project autorefresh="false" build="build/" main="PercolationStats" manifest="" root="" work="">
+    <createjar file="percolation.jar" flags="12"/>
     <source>
-      <file active="true" name="Percolation.java" package="percolation" timestamp="10-Feb-2013 01:21:00">
-        <select from="8" to="8"/>
+      <file active="true" name="PercolationStats.java" package="" timestamp="10-Feb-2013 13:56:03">
+        <select from="82" to="82"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="PercolationStats.java" package="percolation" timestamp="10-Feb-2013 01:21:03">
-        <select from="8" to="8"/>
+      <file name="PercolationTests.java" package="" timestamp="10-Feb-2013 03:16:15">
+        <select from="82" to="82"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="PercolationStatsTests.java" package="percolation" timestamp="10-Feb-2013 01:21:42">
-        <select from="8" to="8"/>
+      <file name="PercolationStatsTests.java" package="" timestamp="10-Feb-2013 13:33:46">
+        <select from="82" to="82"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Percolation.java" package="" timestamp="10-Feb-2013 13:35:42">
+        <select from="82" to="82"/>
         <scroll column="0" row="0"/>
       </file>
     </source>
