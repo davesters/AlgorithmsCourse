@@ -3,27 +3,32 @@
   <project autorefresh="false" build="build/" main="PercolationStats" manifest="" root="" work="">
     <createjar file="percolation.jar" flags="12"/>
     <source>
-      <file active="true" name="PercolationStats.java" package="" timestamp="10-Feb-2013 13:56:03">
-        <select from="82" to="82"/>
+      <file active="true" name="Percolation.java" package="" timestamp="14-Feb-2013 23:27:07">
+        <select from="521" to="521"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="PercolationTests.java" package="" timestamp="10-Feb-2013 03:16:15">
-        <select from="82" to="82"/>
+      <file name="PercolationStats.java" package="" timestamp="14-Feb-2013 23:27:07">
+        <select from="521" to="521"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="PercolationStatsTests.java" package="" timestamp="10-Feb-2013 13:33:46">
-        <select from="82" to="82"/>
+      <file name="PercolationTests.java" package="" timestamp="14-Feb-2013 23:27:07">
+        <select from="521" to="521"/>
         <scroll column="0" row="0"/>
       </file>
-      <file name="Percolation.java" package="" timestamp="10-Feb-2013 13:35:42">
-        <select from="82" to="82"/>
+      <file name="PercolationStatsTests.java" package="" timestamp="14-Feb-2013 23:27:07">
+        <select from="521" to="521"/>
         <scroll column="0" row="0"/>
       </file>
     </source>
     <included/>
     <excluded/>
-    <collapsed/>
-    <classpath/>
+    <collapsed>
+      <path name="./[ Source Files ]/"/>
+    </collapsed>
+    <classpath>
+      <file absolute="false" name="../libs/algs4.jar"/>
+      <file absolute="false" name="../libs/stdlib.jar"/>
+    </classpath>
     <breakpoints/>
     <watches/>
     <bookmarks/>

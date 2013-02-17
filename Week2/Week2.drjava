@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" build="build/" main="Subset" manifest="" root="" work="">
+    <createjar file="Subset.jar" flags="12"/>
+    <source>
+      <file active="true" name="RandomizedQueue.java" package="" timestamp="17-Feb-2013 01:05:46">
+        <select from="3469" to="3469"/>
+        <scroll column="2330" row="0"/>
+      </file>
+      <file name="RandomizedQueueTests.java" package="" timestamp="16-Feb-2013 22:00:05">
+        <select from="3469" to="3469"/>
+        <scroll column="2330" row="0"/>
+      </file>
+      <file name="Subset.java" package="" timestamp="16-Feb-2013 23:07:31">
+        <select from="3469" to="3469"/>
+        <scroll column="2330" row="0"/>
+      </file>
+      <file name="Deque.java" package="" timestamp="16-Feb-2013 23:07:33">
+        <select from="3469" to="3469"/>
+        <scroll column="2330" row="0"/>
+      </file>
+      <file name="DequeTests.java" package="" timestamp="17-Feb-2013 00:44:12">
+        <select from="3469" to="3469"/>
+        <scroll column="2330" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../libs/stdlib.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
