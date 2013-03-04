@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20130218-r5686">
+  <project autorefresh="false" build="build/" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Brute.java" package="" timestamp="03-Mar-2013 18:43:43">
+        <select from="841" to="841"/>
+        <scroll column="405" row="0"/>
+      </file>
+      <file name="Point.java" package="" timestamp="03-Mar-2013 18:42:33">
+        <select from="841" to="841"/>
+        <scroll column="405" row="0"/>
+      </file>
+      <file name="Fast.java" package="" timestamp="03-Mar-2013 18:43:55">
+        <select from="841" to="841"/>
+        <scroll column="405" row="0"/>
+      </file>
+      <file name="PointTests.java" package="" timestamp="03-Mar-2013 18:44:12">
+        <select from="841" to="841"/>
+        <scroll column="405" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../libs/algs4.jar"/>
+      <file absolute="false" name="../libs/stdlib.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
