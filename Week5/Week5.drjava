@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20130218-r5686">
+  <project autorefresh="false" build="build/" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file name="RectHV.java" package="" timestamp="09-Mar-2013 10:32:49">
+        <select from="121" to="121"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="PointSET.java" package="" timestamp="09-Mar-2013 10:36:20">
+        <select from="121" to="121"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="KDTree.java" package="" timestamp="09-Mar-2013 10:36:41">
+        <select from="121" to="121"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../libs/algs4.jar"/>
+      <file absolute="false" name="../libs/stdlib.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
