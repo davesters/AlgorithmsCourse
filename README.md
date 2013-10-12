@@ -1,4 +1,4 @@
 AlgorithmsCourse
 ================
 
-Coursera Algorithms Course
+Coursera Algorithms Course Assignments
